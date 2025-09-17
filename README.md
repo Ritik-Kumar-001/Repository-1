@@ -1,4 +1,5 @@
 # Repository-1
+
 This is my First Repository.
-<br>
-Author - Ritik Kumar
+<!-- <br> -->
+Author - Ritik Kumar (Git Learner)
